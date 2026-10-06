@@ -11,3 +11,13 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+range(1, 6)
+1
+2
+3
+4
+5
+range(5)
+commence de 0
+
+recursive : fucntion calls itself
